@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohamme 👋
 
-<!--
-**M7md-oth/M7md-oth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS @ Birzeit University  
+💻 I build: React / Node.js / Supabase / MySQL apps  
+🚀 Current projects: CarVibe, Ruya.ps, InternLink
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔧 Building <project> (short one-liner)
+- 📈 Improving performance, security, and scalability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+React • Node/Express • Supabase • PostgreSQL/MySQL • Tailwind • Docker
+
+## Highlights
+- ⭐ <Your best repo link> — <1 line>
+- ⭐ <Your best repo link> — <1 line>
+
+## Contact
+- LinkedIn: <link>
+- Email: <email>
