@@ -72,5 +72,7 @@ Birzeit University
 ## 📫 Contact
 
 GitHub: https://github.com/M7md-oth
+
 Email: mohammedoth1232@gmail.com
+
 Linkedin: www.linkedin.com/in/mohammed-othman-18aa44324
